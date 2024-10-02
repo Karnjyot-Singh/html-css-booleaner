@@ -1,0 +1,80 @@
+/* 
+table row - #b1e5f2 
+table heading - #20a9e5
+*/
+
+.header {
+    background-color: #4ea0ff;
+    background-image: url(../img-booleaner/pattern.png);
+    background-size: 400px;
+    height: 100px;
+  }
+  
+  .header-logo {
+    width: 150px;
+  }
+  
+  .title-main {
+    font-size: 36px;
+  }
+  
+  .title-author {
+    color: #808080;
+    font-size: 20px;
+  }
+  
+  .title-author strong {
+    color: #20a9e5;
+  }
+  
+  .title-date {
+    color: #808080;
+    font-size: 12px;
+  }
+  
+  .caption {
+    font-size: 12px;
+  }
+  
+  .highlight {
+    background-color: #ffff00;
+    font-weight: 500;
+  }
+  
+  .section-table {
+    border-collapse: collapse;
+    /* border-spacing: 0; */
+  }
+  
+  .section-table thead {
+    background-color: #20a9e5;
+    text-align: left;
+  }
+  
+  .section-table .odd-row {
+    background-color: #b1e5f2;
+  }
+  
+  .section-table .large-row {
+    width: 50%;
+  }
+  .section-title {
+    font-size: 16px;
+    color: #808080;
+  }
+  .related-article {
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center;
+  }
+  .related-article-title {
+    color: white;
+  }
+  #computer {
+    background-image: url(../img-booleaner/monitor.jpg);
+  }
+  #graph {
+    background-image: url(../img-booleaner/graph.jpg);
+  }
